@@ -5,3 +5,4 @@
 * [Revising the Select Query II](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Revising%20the%20Select%20Query%20II)
 * [Select All](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Select%20All)
 * [Select By ID](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Select%20By%20ID)
+* [Japanese Cities' Attributes](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Japanese%20Cities'%20Attributes)
