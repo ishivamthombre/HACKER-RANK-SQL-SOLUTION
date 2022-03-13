@@ -9,3 +9,4 @@
 * [Japanese Cities' Names](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Japanese%20Cities'%20Names)
 * [Weather Observation Station 1](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Weather%20Observation%20Station%201)
 * [Weather Observation Station 3](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Weather%20Observation%20Station%203)
+* [Weather Observation Station 4](https://github.com/ishivamthombre/HACKER-RANK-SQL-SOLUTION/tree/main/Basic%20Select/Weather%20Observation%20Station%204)
